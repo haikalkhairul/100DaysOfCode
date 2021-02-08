@@ -9,3 +9,6 @@ Did some easy questions on LeetCode to get started in this amazing journey :). I
 
 ### R1D2
 Same deal as yesterday, did some easy LeetCode questions, all in Java. They were 'Find the Highest Altitude' and 'Maximum 69 Number'. The first one was relatively easy, struggled a bit on the second in terms of how to convert String to int and vice versa. A bit rusty in my Java skills, but this will only make it better.
+
+### R1D3
+Same delio as before, did some easy LeetCode questions, all in Java. They were 'Split a String in Balanced Strings' and 'Count of Matches in Tournament'. Both were relatively easy, not much struggling. Thinking of starting a portfolio project soon.
